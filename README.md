@@ -41,64 +41,28 @@ blog: https://www.winkovo.top
 
 ## 精选项目
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/winkovo0818/agentic-test-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=winkovo0818&repo=agentic-test-platform&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=334155&border_color=E2E8F0&hide_border=true" alt="agentic-test-platform" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/winkovo0818/computer-use-mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=winkovo0818&repo=computer-use-mcp&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=334155&border_color=E2E8F0&hide_border=true" alt="computer-use-mcp" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/winkovo0818/image-copilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=winkovo0818&repo=image-copilot&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=334155&border_color=E2E8F0&hide_border=true" alt="image-copilot" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/winkovo0818/xianyu-intel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=winkovo0818&repo=xianyu-intel&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=334155&border_color=E2E8F0&hide_border=true" alt="xianyu-intel" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/winkovo0818/NexusChain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=winkovo0818&repo=NexusChain&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=334155&border_color=E2E8F0&hide_border=true" alt="NexusChain" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/winkovo0818/Tipdm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=winkovo0818&repo=Tipdm&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=334155&border_color=E2E8F0&hide_border=true" alt="Tipdm" />
-      </a>
-    </td>
-  </tr>
-</table>
+| 项目 | 简介 | 技术 |
+|---|---|---|
+| [agentic-test-platform](https://github.com/winkovo0818/agentic-test-platform) | 基于 Agent 的 API 测试生成与执行平台，DSL 校验 | Python |
+| [computer-use-mcp](https://github.com/winkovo0818/computer-use-mcp) | 让 LLM 截屏、读无障碍树、模拟鼠标键盘的 MCP Server | Python |
+| [image-copilot](https://github.com/winkovo0818/image-copilot) | 多角色协同的电商产品视觉设计生成系统 | Python |
+| [xianyu-intel](https://github.com/winkovo0818/xianyu-intel) | 闲鱼选品情报：采集、清洗、AI 分析、比价与推送 | TypeScript |
+| [NexusChain](https://github.com/winkovo0818/NexusChain) | 供应链管理中心的智能可视化系统 | TypeScript |
+| [Tipdm](https://github.com/winkovo0818/Tipdm) | 泰迪杯数据分析赛 B 题：企业财务数据分析与造假识别 | Jupyter · ★7 |
 
 ## GitHub 数据
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=winkovo0818&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=0D9488&text_color=334155&border_color=E2E8F0&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winkovo0818&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&border_color=E2E8F0&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winkovo0818&theme=default" alt="Profile details" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winkovo0818&theme=default" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winkovo0818&theme=default" alt="Most commit language" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=winkovo0818&hide_border=true&background=FFFFFF&ring=2563EB&fire=0D9488&currStreakLabel=2563EB&sideLabels=334155&dates=64748B&currStreakNum=0F172A&sideNums=0F172A" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=winkovo0818&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</div>
-
-## 贡献热力图
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winkovo0818&bg_color=FFFFFF&color=2563EB&line=0D9488&point=0F172A&hide_border=true" alt="Activity graph" width="100%" />
 </div>
 
 ## 最近
