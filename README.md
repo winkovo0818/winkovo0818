@@ -42,7 +42,8 @@ blog: https://www.winkovo.top
 ## GitHub 数据
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winkovo0818&theme=default" alt="Profile details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=winkovo0818&theme=default" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=winkovo0818&theme=default&utcOffset=8" alt="Productive time" />
 </div>
 
 <div align="center">
