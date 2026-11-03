@@ -35,7 +35,7 @@
     <text x="80" y="108" fill="#64748B" font-size="16" letter-spacing="6">HELLO, I'M</text>
     <text x="78" y="184" fill="url(#accent)" font-size="62" font-weight="700">YunDanFengQing</text>
     <text x="80" y="228" fill="#334155" font-size="21">CS Student · AI Agents · Full-stack · Automation</text>
-    <text x="80" y="266" fill="#64748B" font-size="15">Zhaoqing, China · winkovo.top</text>
+    <text x="80" y="266" fill="#64748B" font-size="15">winkovo.top</text>
   </g>
 
   <g transform="translate(798 76)" filter="url(#shadow)">
