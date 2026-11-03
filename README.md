@@ -39,17 +39,6 @@ blog: https://www.winkovo.top
   <img src="https://skillicons.dev/icons?i=py,ts,js,go,java,react,nodejs,fastapi,docker,postgres,redis,git,linux&theme=light" alt="Tech stack" />
 </div>
 
-## 精选项目
-
-| 项目 | 简介 | 技术 |
-|---|---|---|
-| [agentic-test-platform](https://github.com/winkovo0818/agentic-test-platform) | 基于 Agent 的 API 测试生成与执行平台，DSL 校验 | Python |
-| [computer-use-mcp](https://github.com/winkovo0818/computer-use-mcp) | 让 LLM 截屏、读无障碍树、模拟鼠标键盘的 MCP Server | Python |
-| [image-copilot](https://github.com/winkovo0818/image-copilot) | 多角色协同的电商产品视觉设计生成系统 | Python |
-| [xianyu-intel](https://github.com/winkovo0818/xianyu-intel) | 闲鱼选品情报：采集、清洗、AI 分析、比价与推送 | TypeScript |
-| [NexusChain](https://github.com/winkovo0818/NexusChain) | 供应链管理中心的智能可视化系统 | TypeScript |
-| [Tipdm](https://github.com/winkovo0818/Tipdm) | 泰迪杯数据分析赛 B 题：企业财务数据分析与造假识别 | Jupyter · ★7 |
-
 ## GitHub 数据
 
 <div align="center">
