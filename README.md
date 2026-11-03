@@ -95,18 +95,10 @@ blog: https://www.winkovo.top
   <img src="https://github-profile-trophy.vercel.app/?username=winkovo0818&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 </div>
 
-## 贡献
+## 贡献热力图
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=winkovo0818&bg_color=FFFFFF&color=2563EB&line=0D9488&point=0F172A&hide_border=true" alt="Activity graph" width="100%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winkovo0818/winkovo0818/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winkovo0818/winkovo0818/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/winkovo0818/winkovo0818/output/github-snake.svg" />
-  </picture>
 </div>
 
 ## 最近
